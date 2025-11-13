@@ -50,7 +50,7 @@ Alerts replace the UI with big text (e.g., “TEMP TOO HIGH!”). Press the butt
 
 ---
 
-## Key Configuration (edit in code)
+## Key Configuration
 
 * **ADC & Battery:**
 
