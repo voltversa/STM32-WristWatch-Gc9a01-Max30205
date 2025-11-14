@@ -83,6 +83,6 @@ Alerts replace the UI with big text (e.g., “TEMP TOO HIGH!”). Press the butt
 
 ## License & Credits
 
-* ST HAL © STMicroelectronics (see LICENSE terms in your environment).
+* ST HAL © STMicroelectronics.
 * MAX30102/TMP117/GC9A01 drivers credited to their respective authors (and adapted here).
 * This repository code is provided **AS-IS** for educational use.
